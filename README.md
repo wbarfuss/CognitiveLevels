@@ -1,4 +1,6 @@
 # Cognitive Levels Code Repository
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4982727.svg)](https://doi.org/10.5281/zenodo.4982727)
+
 Python implementation to create the figures used in publication.
 
 ## How to use it

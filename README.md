@@ -13,7 +13,7 @@ Python implementation to create the figures used in publication.
 ## Reference
 Barfuss W (2021) 
 *Dynamical systems as a level of cognitive analysis of multi-agent learning - Algorithmic foundations of temporal-difference learning dynamics*
-Accepted for publication in Neural Computing and Applications
+Neural Computing and Applications 34 (3), 1653-1671
 
 
 
